@@ -19,6 +19,10 @@
     {
       "id": "Warehouses",
       "isDefault": false
+    },
+    {
+      "id": "newPage",
+      "isDefault": false
     }
   ],
   "viewMode": false,

@@ -21,8 +21,12 @@
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
       "jsArguments": [
-        {},
-        {}
+        {
+          "name": "total"
+        },
+        {
+          "name": "low_stock"
+        }
       ],
       "isAsync": false
     },
